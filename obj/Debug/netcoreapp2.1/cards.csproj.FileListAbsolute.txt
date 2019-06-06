@@ -1,0 +1,11 @@
+C:\coding_dojo\C#\essentials\cards\bin\Debug\netcoreapp2.1\cards.deps.json
+C:\coding_dojo\C#\essentials\cards\bin\Debug\netcoreapp2.1\cards.runtimeconfig.json
+C:\coding_dojo\C#\essentials\cards\bin\Debug\netcoreapp2.1\cards.runtimeconfig.dev.json
+C:\coding_dojo\C#\essentials\cards\bin\Debug\netcoreapp2.1\cards.dll
+C:\coding_dojo\C#\essentials\cards\bin\Debug\netcoreapp2.1\cards.pdb
+C:\coding_dojo\C#\essentials\cards\obj\Debug\netcoreapp2.1\cards.csprojAssemblyReference.cache
+C:\coding_dojo\C#\essentials\cards\obj\Debug\netcoreapp2.1\cards.csproj.CoreCompileInputs.cache
+C:\coding_dojo\C#\essentials\cards\obj\Debug\netcoreapp2.1\cards.AssemblyInfoInputs.cache
+C:\coding_dojo\C#\essentials\cards\obj\Debug\netcoreapp2.1\cards.AssemblyInfo.cs
+C:\coding_dojo\C#\essentials\cards\obj\Debug\netcoreapp2.1\cards.dll
+C:\coding_dojo\C#\essentials\cards\obj\Debug\netcoreapp2.1\cards.pdb
